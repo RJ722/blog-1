@@ -4,9 +4,10 @@ SEOTitle: Rahul Jha | Blog
 header-img: img/home-bg.jpg
 email: rahul722j@gmail.com
 description: "Write about what's happening, what's not. What I am doing? Am I a pirate?"
+
 keyword: ""
 url: "https://rj722.github.io"              # your host, for absolute URL
-baseurl: "/blog"         # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: "/blog-1"         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
