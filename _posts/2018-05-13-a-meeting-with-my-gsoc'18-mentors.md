@@ -2,15 +2,12 @@
 layout: post
 title: "A meeting with my GSoC'18 mentors"
 date: 2018-05-13 02:07:45
-image: '/assets/img/'
-description: “Tell me and I forget, teach me and I may remember, involve me and I learn.” 
+header-img: 'img/meeting.jpg'
+subtitle: “Tell me and I forget, teach me and I may remember, involve me and I learn.”
 tags:
 - GSoC
 - meeting
 - mentor
-categories:
-- GSoC
-twitter_text: You should definitely meet with your mentors. Here's why!
 ---
 
 So, a few days back I see some sudden activity in [vulture](https://github.com/jendrikseipp/vulture) with a lot of
